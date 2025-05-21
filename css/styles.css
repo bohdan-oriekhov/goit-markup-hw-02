@@ -142,7 +142,6 @@ body {
 }
 
 .portfolio-title {
-    line-height: 1.11;
     font-weight: 700;
     font-size: 36px; 
     line-height: 1.11111;
@@ -150,6 +149,7 @@ body {
     text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
+    line-height: 1.11;
 }
 
 .portfolio-subtitle {
